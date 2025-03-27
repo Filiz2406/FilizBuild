@@ -27,6 +27,7 @@ print(Id)
 
 
 ########### Set up spin Hamiltonians for 3 spins
+N = 16 #we can change this to 4 or 8 
 J = 1.0
 B = 1.0
 x = B/J
